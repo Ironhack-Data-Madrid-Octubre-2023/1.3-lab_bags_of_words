@@ -134,4 +134,4 @@ The Scikit-Learn output will look like below:
  ```
 
 
-CHRISTELL LAMEDA
+CHRISTELL LAMEDA.
