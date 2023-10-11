@@ -33,6 +33,7 @@ The BoW of the above documents looks like below:
 | love | 0 | 1 | 0 |
 | student | 0 | 0 | 1 |
 
+ok
 
 The term-frequency array of each document in BoW can be considered a high-dimensional vector. Data scientists use these vectors to represent the content of the documents. For instance, DOC 1 is represented with `[0, 0, 0, 1, 0, 1, 1, 0, 0]`, DOC 2 is represented with `[0, 0, 0, 0, 1, 1, 0, 1, 0]`, and DOC 3 is represented with `[1, 1, 1, 0, 1, 1, 0, 0, 1]`. **Two documents are considered identical if their vector representations have close [cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity).**
 
