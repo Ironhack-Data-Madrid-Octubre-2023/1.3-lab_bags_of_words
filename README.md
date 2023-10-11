@@ -1,7 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Bag of Words
-
+...
 ## Introduction
 
 **Bag of words (BoW)** is an important technique in text mining and [information retrieval](https://en.wikipedia.org/wiki/Information_retrieval). BoW uses term-frequency vectors to represent the content of text documents which makes it possible to use mathematics and computer programs to analyze and compare text documents.
