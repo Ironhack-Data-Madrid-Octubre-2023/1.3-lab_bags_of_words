@@ -8,7 +8,7 @@
 
 BoW contains the following information:
 
-1. A dictionary of all the terms (words) in the text documents. The terms are normalized in terms of the letter case (e.g. `Ironhack` => `ironhack`), tense (e.g. `had` => `have`), singular form (e.g. `students` => `student`), etc.
+1. A dictionary of all the terms (words) in the text documents. The terms are normalized in terms of the letter case (e.g `Ironhack` => `ironhack`), tense (e.g. `had` => `have`), singular form (e.g. `students` => `student`), etc.
 1. The number of occurrences of each normalized term in each document.
 
 For example, assume we have three text documents:
